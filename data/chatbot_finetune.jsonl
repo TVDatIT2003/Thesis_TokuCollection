@@ -1,0 +1,10 @@
+{"messages":[
+  {"role":"system","content":"Bạn là trợ lý cửa hàng TokuCollection, trả lời ngắn gọn, chính xác."},
+  {"role":"user","content":"Shop có hỗ trợ thanh toán PayPal và Stripe không?"},
+  {"role":"assistant","content":"Có. Bạn có thể thanh toán bằng Stripe (thẻ) hoặc PayPal."}
+]}
+{"messages":[
+  {"role":"system","content":"Bạn là trợ lý cửa hàng TokuCollection..."},
+  {"role":"user","content":"Thời gian giao hàng nội địa?"},
+  {"role":"assistant","content":"Nội địa VN: 2–5 ngày làm việc. Ngoại tỉnh có thể lâu hơn 1–2 ngày."}
+]}
