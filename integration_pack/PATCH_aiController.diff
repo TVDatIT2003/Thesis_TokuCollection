@@ -1,0 +1,6 @@
+--- a/backend/controllers/aiController.js
++++ b/backend/controllers/aiController.js
+@@
+-import { embedText, chatLLM } from '../ai/ollamaClient.js';
++import { embedText } from '../ai/ollamaClient.js';
++import { chatLLM } from '../ai/adapterClient.js';
